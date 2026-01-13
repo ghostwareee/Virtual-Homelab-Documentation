@@ -79,6 +79,6 @@ System Administrator roles.
 
 ---
 
-**Contact:** [Your contact info]  
-**LinkedIn:** [Your LinkedIn]
-**Status:** Actively seeking IT Support / System Administrator position in Kalimantan Selatan
+**Contact:** 0831-6750-2330  
+**LinkedIn:** https://www.linkedin.com/in/rafli-nurrahman/
+**Status:** Actively seeking Technical Support / IT engineer L1 / System Administrator position in Kalimantan Selatan
