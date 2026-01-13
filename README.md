@@ -71,7 +71,7 @@ It showcases my hands-on experience with Linux server setup and service manageme
 ## 🎯 Purpose
 
 This lab serves as a practical demonstration of my system administration
-capabilities across multiple platforms, suitable for IT Support and 
+capabilities across multiple platforms, suitable for IT Support, IT engineer L1 and 
 System Administrator roles.
 
 ---
